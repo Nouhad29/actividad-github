@@ -20,8 +20,9 @@ Se han trabajado los siguientes conceptos:
 
 ## Archivos
 
+- README.md
+- log.md
 - main.py
 - userfnc.py
 - alert.py
 - .gitignore
-- log.md
